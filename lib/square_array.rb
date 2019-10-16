@@ -1,5 +1,3 @@
 def square_array(array)
-  while numbers = true
-    puts array ** 2
-  end
+  array.each { |x| p x * 2}
 end
