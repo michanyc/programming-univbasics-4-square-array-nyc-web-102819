@@ -1,5 +1,5 @@
 def square_array(array)
-  while numbers = truth
+  while numbers = true
     puts array**2
   end
 end
